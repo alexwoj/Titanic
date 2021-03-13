@@ -1,0 +1,892 @@
+id_passageiro;sexo;idade;irmaos_e_esposos_abordo;pais_e_filhos_abordo;bilhete;tarifa;classe;poltrona;local_de_embarque;sobrevivente
+97;masculino;71;0;0;PC 17754;34,6542;1;A5;C;Não
+105;masculino;37;2;0;3101276;7,925;3;;S;Não
+96;masculino;;0;0;374910;8,05;3;;S;Não
+550;masculino;8;1;1;C.A. 33112;36,75;2;;S;Sim
+442;masculino;20;0;0;345769;9,5;3;;S;Não
+386;masculino;18;0;0;S.O.C. 14879;73,5;2;;S;Não
+553;masculino;;0;0;330979;7,8292;3;;Q;Não
+70;masculino;26;2;0;315151;8,6625;3;;S;Não
+137;feminino;19;0;2;11752;26,2833;1;D47;S;Sim
+47;masculino;;1;0;370371;15,5;3;;Q;Não
+206;feminino;2;0;1;347054;10,4625;3;G6;S;Não
+11;feminino;4;1;1;PP 9549;16,7;3;G6;S;Sim
+840;masculino;;0;0;11774;29,7;1;C47;C;Sim
+605;masculino;35;0;0;111426;26,55;1;;C;Sim
+546;masculino;64;0;0;693;26;1;;S;Não
+760;feminino;33;0;0;110152;86,5;1;B77;S;Sim
+667;masculino;25;0;0;234686;13;2;;S;Não
+158;masculino;30;0;0;SOTON/OQ 392090;8,05;3;;S;Não
+387;masculino;1;5;2;CA 2144;46,9;3;;S;Não
+135;masculino;25;0;0;C.A. 29178;13;2;;S;Não
+454;masculino;49;1;0;17453;89,1042;1;C92;C;Sim
+886;feminino;39;0;5;382652;29,125;3;;Q;Não
+539;masculino;;0;0;364498;14,5;3;;S;Não
+259;feminino;35;0;0;PC 17755;512,3292;1;;C;Sim
+98;masculino;23;0;1;PC 17759;63,3583;1;D10 D12;C;Sim
+777;masculino;;0;0;383121;7,75;3;F38;Q;Não
+115;feminino;17;0;0;2627;14,4583;3;;C;Não
+600;masculino;49;1;0;PC 17485;56,9292;1;A20;C;Sim
+743;feminino;21;2;2;PC 17608;262,375;1;B57 B59 B63 B66;C;Sim
+660;masculino;58;0;2;35273;113,275;1;D48;C;Não
+120;feminino;2;4;2;347082;31,275;3;;S;Não
+261;masculino;;0;0;384461;7,75;3;;Q;Não
+639;feminino;41;0;5;3101295;39,6875;3;;S;Não
+694;masculino;25;0;0;2672;7,225;3;;C;Não
+790;masculino;46;0;0;PC 17593;79,2;1;B82 B84;C;Não
+74;masculino;26;1;0;2680;14,4542;3;;C;Não
+366;masculino;30;0;0;C 7076;7,25;3;;S;Não
+741;masculino;;0;0;16988;30;1;D45;S;Sim
+2;feminino;38;1;0;PC 17599;71,2833;1;C85;C;Sim
+112;feminino;14.5;1;0;2665;14,4542;3;;C;Não
+446;masculino;4;0;2;33638;81,8583;1;A34;S;Sim
+558;masculino;;0;0;PC 17757;227,525;1;;C;Não
+621;masculino;27;1;0;2659;14,4542;3;;C;Não
+776;masculino;18;0;0;347078;7,75;3;;S;Não
+425;masculino;18;1;1;370129;20,2125;3;;S;Não
+407;masculino;51;0;0;347064;7,75;3;;S;Não
+184;masculino;1;2;1;230136;39;2;F4;S;Sim
+173;feminino;1;1;1;347742;11,1333;3;;S;Sim
+480;feminino;2;0;1;3101298;12,2875;3;;S;Sim
+751;feminino;4;1;1;29103;23;2;;S;Sim
+288;masculino;22;0;0;349206;7,8958;3;;S;Não
+316;feminino;26;0;0;347470;7,8542;3;;S;Sim
+82;masculino;29;0;0;345779;9,5;3;;S;Sim
+219;feminino;32;0;0;11813;76,2917;1;D15;C;Sim
+164;masculino;17;0;0;315093;8,6625;3;;S;Não
+610;feminino;40;0;0;PC 17582;153,4625;1;C125;S;Sim
+440;masculino;31;0;0;C.A. 18723;10,5;2;;S;Não
+673;masculino;70;0;0;C.A. 24580;10,5;2;;S;Não
+226;masculino;22;0;0;PP 4348;9,35;3;;S;Não
+371;masculino;25;1;0;11765;55,4417;1;E50;C;Sim
+552;masculino;27;0;0;244358;26;2;;S;Não
+523;masculino;;0;0;2624;7,225;3;;C;Não
+503;feminino;;0;0;330909;7,6292;3;;Q;Não
+643;feminino;2;3;2;347088;27,9;3;;S;Não
+199;feminino;;0;0;370370;7,75;3;;Q;Sim
+209;feminino;16;0;0;367231;7,75;3;;Q;Sim
+729;masculino;25;1;0;236853;26;2;;S;Não
+390;feminino;17;0;0;SC 1748;12;2;;C;Sim
+644;masculino;;0;0;1601;56,4958;3;;S;Sim
+337;masculino;29;1;0;113776;66,6;1;C2;S;Não
+500;masculino;24;0;0;350035;7,7958;3;;S;Não
+4;feminino;35;1;0;113803;53,1;1;C123;S;Sim
+789;masculino;1;1;2;C.A. 2315;20,575;3;;S;Sim
+324;feminino;22;1;1;248738;29;2;;S;Sim
+159;masculino;;0;0;315037;8,6625;3;;S;Não
+183;masculino;9;4;2;347077;31,3875;3;;S;Não
+215;masculino;;1;0;367229;7,75;3;;Q;Não
+71;masculino;32;0;0;C.A. 33111;10,5;2;;S;Não
+670;feminino;;1;0;19996;52;1;C126;S;Sim
+648;masculino;56;0;0;13213;35,5;1;A26;C;Sim
+868;masculino;31;0;0;PC 17590;50,4958;1;A24;S;Não
+541;feminino;36;0;2;WE/P 5735;71;1;B22;S;Sim
+350;masculino;42;0;0;315088;8,6625;3;;S;Não
+491;masculino;;1;0;65304;19,9667;3;;S;Não
+389;masculino;;0;0;367655;7,7292;3;;Q;Não
+877;masculino;20;0;0;7534;9,8458;3;;S;Não
+618;feminino;26;1;0;A/5. 3336;16,1;3;;S;Não
+510;masculino;26;0;0;1601;56,4958;3;;S;Sim
+713;masculino;48;1;0;19996;52;1;C126;S;Sim
+359;feminino;;0;0;330931;7,8792;3;;Q;Sim
+525;masculino;;0;0;2700;7,2292;3;;C;Não
+771;masculino;24;0;0;345781;9,5;3;;S;Não
+596;masculino;36;1;1;345773;24,15;3;;S;Não
+792;masculino;16;0;0;239865;26;2;;S;Não
+308;feminino;17;1;0;PC 17758;108,9;1;C65;C;Sim
+417;feminino;34;1;1;28220;32,5;2;;S;Sim
+23;feminino;15;0;0;330923;8,0292;3;;Q;Sim
+306;masculino;0.92;1;2;113781;151,55;1;C22 C26;S;Sim
+714;masculino;29;0;0;7545;9,4833;3;;S;Não
+707;feminino;45;0;0;223596;13,5;2;;S;Sim
+650;feminino;23;0;0;CA. 2314;7,55;3;;S;Sim
+220;masculino;30;0;0;W/C 14208;10,5;2;;S;Não
+203;masculino;34;0;0;3101264;6,4958;3;;S;Não
+884;masculino;28;0;0;C.A./SOTON 34068;10,5;2;;S;Não
+501;masculino;17;0;0;315086;8,6625;3;;S;Não
+141;feminino;;0;2;2678;15,2458;3;;C;Não
+586;feminino;18;0;2;110413;79,65;1;E68;S;Sim
+125;masculino;54;0;1;35281;77,2875;1;D26;S;Não
+191;feminino;32;0;0;234604;13;2;;S;Sim
+803;masculino;11;1;2;113760;120;1;B96 B98;S;Sim
+172;masculino;4;4;1;382652;29,125;3;;Q;Não
+282;masculino;28;0;0;347464;7,8542;3;;S;Não
+693;masculino;;0;0;1601;56,4958;3;;S;Sim
+584;masculino;36;0;0;13049;40,125;1;A10;C;Não
+178;feminino;50;0;0;PC 17595;28,7125;1;C49;C;Não
+529;masculino;39;0;0;3101296;7,925;3;;S;Não
+356;masculino;28;0;0;345783;9,5;3;;S;Não
+416;feminino;;0;0;343095;8,05;3;;S;Não
+692;feminino;4;0;1;349256;13,4167;3;;C;Sim
+784;masculino;;1;2;W./C. 6607;23,45;3;;S;Não
+140;masculino;24;0;0;PC 17593;79,2;1;B86;C;Não
+562;masculino;40;0;0;349251;7,8958;3;;S;Não
+659;masculino;23;0;0;29751;13;2;;S;Não
+485;masculino;25;1;0;11967;91,0792;1;B49;C;Sim
+661;masculino;50;2;0;PC 17611;133,65;1;;S;Sim
+461;masculino;48;0;0;19952;26,55;1;E12;S;Sim
+508;masculino;;0;0;111427;26,55;1;;S;Sim
+181;feminino;;8;2;CA. 2343;69,55;3;;S;Não
+311;feminino;24;0;0;11767;83,1583;1;C54;C;Sim
+602;masculino;;0;0;349214;7,8958;3;;S;Não
+243;masculino;29;0;0;W./C. 14263;10,5;2;;S;Não
+674;masculino;31;0;0;244270;13;2;;S;Sim
+289;masculino;42;0;0;237798;13;2;;S;Sim
+464;masculino;48;0;0;234360;13;2;;S;Não
+34;masculino;66;0;0;C.A. 24579;10,5;2;;S;Não
+380;masculino;19;0;0;347069;7,775;3;;S;Não
+255;feminino;41;0;2;370129;20,2125;3;;S;Não
+397;feminino;31;0;0;350407;7,8542;3;;S;Não
+273;feminino;41;0;1;250644;19,5;2;;S;Sim
+196;feminino;58;0;0;PC 17569;146,5208;1;B80;C;Sim
+698;feminino;;0;0;35852;7,7333;3;;Q;Sim
+658;feminino;32;1;1;364849;15,5;3;;Q;Não
+615;masculino;35;0;0;364512;8,05;3;;S;Não
+94;masculino;26;1;2;C.A. 2315;20,575;3;;S;Não
+521;feminino;30;0;0;12749;93,5;1;B73;S;Sim
+408;masculino;3;1;1;29106;18,75;2;;S;Sim
+338;feminino;41;0;0;16966;134,5;1;E40;C;Sim
+241;feminino;;1;0;2665;14,4542;3;;C;Não
+561;masculino;;0;0;372622;7,75;3;;Q;Não
+468;masculino;56;0;0;113792;26,55;1;;S;Não
+601;feminino;24;2;1;243847;27;2;;S;Sim
+223;masculino;51;0;0;21440;8,05;3;;S;Não
+506;masculino;18;1;0;PC 17758;108,9;1;C65;C;Não
+50;feminino;18;1;0;349237;17,8;3;;S;Não
+227;masculino;19;0;0;SW/PP 751;10,5;2;;S;Sim
+668;masculino;;0;0;312993;7,775;3;;S;Não
+502;feminino;21;0;0;364846;7,75;3;;Q;Não
+845;masculino;17;0;0;315090;8,6625;3;;S;Não
+26;feminino;38;1;5;347077;31,3875;3;;S;Sim
+72;feminino;16;5;2;CA 2144;46,9;3;;S;Não
+490;masculino;9;1;1;C.A. 37671;15,9;3;;S;Sim
+636;feminino;28;0;0;237668;13;2;;S;Sim
+399;masculino;23;0;0;244278;10,5;2;;S;Não
+147;masculino;27;0;0;350043;7,7958;3;;S;Sim
+576;masculino;19;0;0;358585;14,5;3;;S;Não
+179;masculino;30;0;0;250653;13;2;;S;Não
+355;masculino;;0;0;2647;7,225;3;;C;Não
+376;feminino;;1;0;PC 17604;82,1708;1;;C;Sim
+801;masculino;34;0;0;250647;13;2;;S;Não
+81;masculino;22;0;0;345767;9;3;;S;Não
+472;masculino;38;0;0;315089;8,6625;3;;S;Não
+846;masculino;42;0;0;C.A. 5547;7,55;3;;S;Não
+474;feminino;23;0;0;SC/AH Basle 541;13,7917;2;D;C;Sim
+634;masculino;;0;0;112052;0;1;;S;Não
+548;masculino;;0;0;SC/PARIS 2146;13,8625;2;;C;Sim
+718;feminino;27;0;0;34218;10,5;2;E101;S;Sim
+404;masculino;28;1;0;STON/O2. 3101279;15,85;3;;S;Não
+60;masculino;11;5;2;CA 2144;46,9;3;;S;Não
+456;masculino;29;0;0;349240;7,8958;3;;C;Sim
+63;masculino;45;1;0;36973;83,475;1;C83;S;Não
+154;masculino;40.5;0;2;A/5. 851;14,5;3;;S;Não
+815;masculino;30.5;0;0;364499;8,05;3;;S;Não
+401;masculino;39;0;0;STON/O 2. 3101289;7,925;3;;S;Sim
+62;feminino;38;0;0;113572;80;1;B28;;Sim
+759;masculino;34;0;0;363294;8,05;3;;S;Não
+455;masculino;;0;0;A/5 2817;8,05;3;;S;Não
+788;masculino;8;4;1;382652;29,125;3;;Q;Não
+779;masculino;;0;0;36865;7,7375;3;;Q;Não
+280;feminino;35;1;1;C.A. 2673;20,25;3;;S;Sim
+580;masculino;32;0;0;STON/O 2. 3101286;7,925;3;;S;Sim
+13;masculino;20;0;0;A/5. 2151;8,05;3;;S;Não
+492;masculino;21;0;0;SOTON/OQ 3101317;7,25;3;;S;Não
+827;masculino;;0;0;1601;56,4958;3;;S;Não
+696;masculino;52;0;0;248731;13,5;2;;S;Não
+128;masculino;24;0;0;C 17369;7,1417;3;;S;Sim
+253;masculino;62;0;0;113514;26,55;1;C87;S;Não
+257;feminino;;0;0;PC 17585;79,2;1;;C;Sim
+869;masculino;;0;0;345777;9,5;3;;S;Não
+564;masculino;;0;0;SOTON/OQ 392082;8,05;3;;S;Não
+381;feminino;42;0;0;PC 17757;227,525;1;;C;Sim
+459;feminino;50;0;0;F.C.C. 13531;10,5;2;;S;Sim
+239;masculino;19;0;0;28665;10,5;2;;S;Não
+247;feminino;25;0;0;347071;7,775;3;;S;Não
+873;masculino;33;0;0;695;5;1;B51 B53 B55;S;Não
+148;feminino;9;2;2;W./C. 6608;34,375;3;;S;Não
+703;feminino;18;0;1;2691;14,4542;3;;C;Não
+809;masculino;39;0;0;248723;13;2;;S;Não
+195;feminino;44;0;0;PC 17610;27,7208;1;B4;C;Sim
+15;feminino;14;0;0;350406;7,8542;3;;S;Não
+398;masculino;46;0;0;28403;26;2;;S;Não
+726;masculino;20;0;0;315094;8,6625;3;;S;Não
+418;feminino;18;0;2;250652;13;2;;S;Sim
+130;masculino;45;0;0;347061;6,975;3;;S;Não
+314;masculino;28;0;0;349243;7,8958;3;;S;Não
+752;masculino;6;0;1;392096;12,475;3;E121;S;Sim
+654;feminino;;0;0;330919;7,8292;3;;Q;Sim
+43;masculino;;0;0;349253;7,8958;3;;C;Não
+625;masculino;21;0;0;54636;16,1;3;;S;Não
+834;masculino;23;0;0;347468;7,8542;3;;S;Não
+728;feminino;;0;0;36866;7,7375;3;;Q;Sim
+638;masculino;31;1;1;C.A. 31921;26,25;2;;S;Não
+117;masculino;70.5;0;0;370369;7,75;3;;Q;Não
+708;masculino;42;0;0;PC 17476;26,2875;1;E24;S;Sim
+224;masculino;;0;0;349234;7,8958;3;;S;Não
+86;feminino;33;3;0;3101278;15,85;3;;S;Sim
+476;masculino;;0;0;110465;52;1;A14;S;Não
+463;masculino;47;0;0;111320;38,5;1;E63;S;Não
+428;feminino;19;0;0;250655;26;2;;S;Sim
+369;feminino;;0;0;14313;7,75;3;;Q;Sim
+876;feminino;15;0;0;2667;7,225;3;;C;Sim
+857;feminino;45;1;1;36928;164,8667;1;;S;Sim
+87;masculino;16;1;3;W./C. 6608;34,375;3;;S;Não
+320;feminino;40;1;1;16966;134,5;1;E34;C;Sim
+415;masculino;44;0;0;STON/O 2. 3101269;7,925;3;;S;Sim
+22;masculino;34;0;0;248698;13;2;D56;S;Sim
+775;feminino;54;1;3;29105;23;2;;S;Sim
+5;masculino;35;0;0;373450;8,05;3;;S;Não
+30;masculino;;0;0;349216;7,8958;3;;S;Não
+822;masculino;27;0;0;315098;8,6625;3;;S;Sim
+432;feminino;;1;0;376564;16,1;3;;S;Sim
+368;feminino;;0;0;2626;7,2292;3;;C;Sim
+731;feminino;29;0;0;24160;211,3375;1;B5;S;Sim
+110;feminino;;1;0;371110;24,15;3;;Q;Sim
+357;feminino;22;0;1;113505;55;1;E33;S;Sim
+863;feminino;48;0;0;17466;25,9292;1;D17;S;Sim
+738;masculino;35;0;0;PC 17755;512,3292;1;B101;C;Sim
+716;masculino;19;0;0;348124;7,65;3;F G73;S;Não
+712;masculino;;0;0;113028;26,55;1;C124;S;Não
+171;masculino;61;0;0;111240;33,5;1;B19;S;Não
+611;feminino;39;1;5;347082;31,275;3;;S;Não
+283;masculino;16;0;0;345778;9,5;3;;S;Não
+409;masculino;21;0;0;312992;7,775;3;;S;Não
+436;feminino;14;1;2;113760;120;1;B96 B98;S;Sim
+204;masculino;45.5;0;0;2628;7,225;3;;C;Não
+169;masculino;;0;0;PC 17318;25,925;1;;S;Não
+722;masculino;17;1;0;350048;7,0542;3;;S;Não
+828;masculino;1;0;2;S.C./PARIS 2079;37,0042;2;;C;Sim
+375;feminino;3;3;1;349909;21,075;3;;S;Não
+641;masculino;20;0;0;350050;7,8542;3;;S;Não
+132;masculino;20;0;0;SOTON/O.Q. 3101307;7,05;3;;S;Não
+348;feminino;;1;0;386525;16,1;3;;S;Sim
+396;masculino;22;0;0;350052;7,7958;3;;S;Não
+725;masculino;27;1;0;113806;53,1;1;E8;S;Sim
+631;masculino;80;0;0;27042;30;1;A23;S;Sim
+212;feminino;35;0;0;F.C.C. 13528;21;2;;S;Sim
+710;masculino;;1;1;2661;15,2458;3;;C;Sim
+842;masculino;16;0;0;S.O./P.P. 3;10,5;2;;S;Não
+578;feminino;39;1;0;13507;55,9;1;E44;S;Sim
+483;masculino;50;0;0;A/5 3594;8,05;3;;S;Não
+251;masculino;;0;0;362316;7,25;3;;S;Não
+761;masculino;;0;0;358585;14,5;3;;S;Não
+686;masculino;25;1;2;SC/Paris 2123;41,5792;2;;C;Não
+734;masculino;23;0;0;28425;13;2;;S;Não
+678;feminino;18;0;0;4138;9,8417;3;;S;Sim
+333;masculino;38;0;1;PC 17582;153,4625;1;C91;S;Não
+589;masculino;22;0;0;14973;8,05;3;;S;Não
+514;feminino;54;1;0;PC 17603;59,4;1;;C;Sim
+54;feminino;29;1;0;2926;26;2;;S;Sim
+604;masculino;44;0;0;364511;8,05;3;;S;Não
+254;masculino;30;1;0;A/5. 3336;16,1;3;;S;Não
+682;masculino;27;0;0;PC 17572;76,7292;1;D49;C;Sim
+143;feminino;24;1;0;STON/O2. 3101279;15,85;3;;S;Sim
+460;masculino;;0;0;371060;7,75;3;;Q;Não
+522;masculino;22;0;0;349252;7,8958;3;;S;Não
+814;feminino;6;4;2;347082;31,275;3;;S;Não
+831;feminino;15;1;0;2659;14,4542;3;;C;Sim
+388;feminino;36;0;0;27849;13;2;;S;Sim
+499;feminino;25;1;2;113781;151,55;1;C22 C26;S;Não
+8;masculino;2;3;1;349909;21,075;3;;S;Não
+882;masculino;33;0;0;349257;7,8958;3;;S;Não
+330;feminino;16;0;1;111361;57,9792;1;B18;C;Sim
+279;masculino;7;4;1;382652;29,125;3;;Q;Não
+312;feminino;18;2;2;PC 17608;262,375;1;B57 B59 B63 B66;C;Sim
+266;masculino;36;0;0;C.A. 17248;10,5;2;;S;Não
+80;feminino;30;0;0;364516;12,475;3;;S;Sim
+109;masculino;38;0;0;349249;7,8958;3;;S;Não
+769;masculino;;1;0;371110;24,15;3;;Q;Não
+563;masculino;28;0;0;218629;13,5;2;;S;Não
+519;feminino;36;1;0;226875;26;2;;S;Sim
+152;feminino;22;1;0;113776;66,6;1;C2;S;Sim
+749;masculino;19;1;0;113773;53,1;1;D30;S;Não
+423;masculino;29;0;0;315082;7,875;3;;S;Não
+327;masculino;61;0;0;345364;6,2375;3;;S;Não
+754;masculino;23;0;0;349204;7,8958;3;;S;Não
+622;masculino;42;1;0;11753;52,5542;1;D19;S;Sim
+65;masculino;;0;0;PC 17605;27,7208;1;;C;Não
+700;masculino;42;0;0;348121;7,65;3;F G63;S;Não
+434;masculino;17;0;0;STON/O 2. 3101274;7,125;3;;S;Não
+879;masculino;;0;0;349217;7,8958;3;;S;Não
+471;masculino;;0;0;323592;7,25;3;;S;Não
+778;feminino;5;0;0;364516;12,475;3;;S;Sim
+613;feminino;;1;0;367230;15,5;3;;Q;Sim
+793;feminino;;8;2;CA. 2343;69,55;3;;S;Não
+18;masculino;;0;0;244373;13;2;;S;Sim
+252;feminino;29;1;1;347054;10,4625;3;G6;S;Não
+513;masculino;36;0;0;PC 17473;26,2875;1;E25;S;Sim
+494;masculino;71;0;0;PC 17609;49,5042;1;;C;Não
+566;masculino;24;2;0;A/4 48871;24,15;3;;S;Não
+262;masculino;3;4;2;347077;31,3875;3;;S;Sim
+697;masculino;44;0;0;363592;8,05;3;;S;Não
+166;masculino;9;0;2;363291;20,525;3;;S;Sim
+807;masculino;39;0;0;112050;0;1;A36;S;Não
+133;feminino;47;1;0;A/5. 3337;14,5;3;;S;Não
+198;masculino;42;0;1;4579;8,4042;3;;S;Não
+218;masculino;42;1;0;243847;27;2;;S;Não
+690;feminino;15;0;1;24160;211,3375;1;B5;S;Sim
+655;feminino;18;0;0;365226;6,75;3;;Q;Não
+750;masculino;31;0;0;335097;7,75;3;;Q;Não
+69;feminino;17;4;2;3101281;7,925;3;;S;Sim
+515;masculino;24;0;0;349209;7,4958;3;;S;Não
+347;feminino;40;0;0;31418;13;2;;S;Sim
+755;feminino;48;1;2;220845;65;2;;S;Sim
+763;masculino;20;0;0;2663;7,2292;3;;C;Sim
+263;masculino;52;1;1;110413;79,65;1;E67;S;Não
+609;feminino;22;1;2;SC/Paris 2123;41,5792;2;;C;Sim
+37;masculino;;0;0;2677;7,2292;3;;C;Sim
+683;masculino;20;0;0;6563;9,225;3;;S;Não
+240;masculino;33;0;0;SCO/W 1585;12,275;2;;S;Não
+739;masculino;;0;0;349201;7,8958;3;;S;Não
+747;masculino;16;1;1;C.A. 2673;20,25;3;;S;Não
+482;masculino;;0;0;239854;0;2;;S;Não
+167;feminino;;0;1;113505;55;1;E33;S;Sim
+56;masculino;;0;0;19947;35,5;1;C52;S;Sim
+126;masculino;12;1;0;2651;11,2417;3;;C;Sim
+542;feminino;9;4;2;347082;31,275;3;;S;Não
+796;masculino;39;0;0;28213;13;2;;S;Não
+883;feminino;22;0;0;7552;10,5167;3;;S;Não
+547;feminino;19;1;0;2908;26;2;;S;Sim
+818;masculino;31;1;1;S.C./PARIS 2079;37,0042;2;;C;Não
+448;masculino;34;0;0;113794;26,55;1;;S;Sim
+124;feminino;32.5;0;0;27267;13;2;E101;S;Sim
+785;masculino;25;0;0;SOTON/O.Q. 3101312;7,05;3;;S;Não
+49;masculino;;2;0;2662;21,6792;3;;C;Não
+466;masculino;38;0;0;SOTON/O.Q. 3101306;7,05;3;;S;Não
+42;feminino;27;1;0;11668;21;2;;S;Não
+265;feminino;;0;0;382649;7,75;3;;Q;Não
+574;feminino;;0;0;14312;7,75;3;;Q;Sim
+849;masculino;28;0;1;248727;33;2;;S;Não
+452;masculino;;1;0;65303;19,9667;3;;S;Não
+157;feminino;16;0;0;35851;7,7333;3;;Q;Sim
+811;masculino;26;0;0;3474;7,8875;3;;S;Não
+370;feminino;24;0;0;PC 17477;69,3;1;B35;C;Sim
+249;masculino;37;1;1;11751;52,5542;1;D35;S;Sim
+382;feminino;1;0;2;2653;15,7417;3;;C;Sim
+836;feminino;39;1;1;PC 17756;83,1583;1;E49;C;Sim
+234;feminino;5;4;2;347077;31,3875;3;;S;Sim
+765;masculino;16;0;0;347074;7,775;3;;S;Não
+41;feminino;40;1;0;7546;9,475;3;;S;Não
+695;masculino;60;0;0;113800;26,55;1;;S;Não
+139;masculino;16;0;0;7534;9,2167;3;;S;Não
+101;feminino;28;0;0;349245;7,8958;3;;S;Não
+669;masculino;43;0;0;A/5 3536;8,05;3;;S;Não
+856;feminino;18;0;1;392091;9,35;3;;S;Sim
+364;masculino;35;0;0;SOTON/O.Q. 3101310;7,05;3;;S;Não
+146;masculino;19;1;1;C.A. 33112;36,75;2;;S;Não
+248;feminino;24;0;2;250649;14,5;2;;S;Sim
+45;feminino;19;0;0;330958;7,8792;3;;Q;Sim
+295;masculino;24;0;0;349233;7,8958;3;;S;Não
+554;masculino;22;0;0;2620;7,225;3;;C;Sim
+122;masculino;;0;0;A4. 54510;8,05;3;;S;Não
+190;masculino;36;0;0;349247;7,8958;3;;S;Não
+530;masculino;23;2;1;29104;11,5;2;;S;Não
+242;feminino;;1;0;367230;15,5;3;;Q;Sim
+870;masculino;4;1;1;347742;11,1333;3;;S;Sim
+336;masculino;;0;0;349225;7,8958;3;;S;Não
+284;masculino;19;0;0;A/5. 10482;8,05;3;;S;Sim
+823;masculino;38;0;0;19972;0;1;;S;Não
+205;masculino;18;0;0;A/5 3540;8,05;3;;S;Sim
+149;masculino;36.5;0;2;230080;26;2;F2;S;Não
+373;masculino;19;0;0;323951;8,05;3;;S;Não
+516;masculino;47;0;0;36967;34,0208;1;D46;S;Não
+20;feminino;;0;0;2649;7,225;3;;C;Sim
+568;feminino;29;0;4;349909;21,075;3;;S;Não
+75;masculino;32;0;0;1601;56,4958;3;;S;Sim
+527;feminino;50;0;0;W./C. 14258;10,5;2;;S;Sim
+874;masculino;47;0;0;345765;9;3;;S;Não
+444;feminino;28;0;0;230434;13;2;;S;Sim
+298;feminino;2;1;2;113781;151,55;1;C22 C26;S;Não
+833;masculino;;0;0;2671;7,2292;3;;C;Não
+307;feminino;;0;0;17421;110,8833;1;;C;Sim
+888;feminino;19;0;0;112053;30;1;B42;S;Sim
+395;feminino;24;0;2;PP 9549;16,7;3;G6;S;Sim
+671;feminino;40;1;1;29750;39;2;;S;Sim
+737;feminino;48;1;3;W./C. 6608;34,375;3;;S;Não
+635;feminino;9;3;2;347088;27,9;3;;S;Não
+551;masculino;17;0;2;17421;110,8833;1;C70;C;Sim
+85;feminino;17;0;0;SO/C 14885;10,5;2;;S;Sim
+677;masculino;24.5;0;0;342826;8,05;3;;S;Não
+318;masculino;54;0;0;29011;14;2;;S;Não
+534;feminino;;0;2;2668;22,3583;3;;C;Sim
+555;feminino;22;0;0;347085;7,775;3;;S;Sim
+816;masculino;;0;0;112058;0;1;B102;S;Não
+791;masculino;;0;0;12460;7,75;3;;Q;Não
+735;masculino;23;0;0;233639;13;2;;S;Não
+384;feminino;35;1;0;113789;52;1;;S;Sim
+335;feminino;;1;0;PC 17611;133,65;1;;S;Sim
+6;masculino;;0;0;330877;8,4583;3;;Q;Não
+606;masculino;36;1;0;349910;15,55;3;;S;Não
+443;masculino;25;1;0;347076;7,775;3;;S;Não
+569;masculino;;0;0;2686;7,2292;3;;C;Não
+794;masculino;;0;0;PC 17600;30,6958;1;;C;Não
+647;masculino;19;0;0;349231;7,8958;3;;S;Não
+680;masculino;36;0;1;PC 17755;512,3292;1;B51 B53 B55;C;Sim
+637;masculino;32;0;0;STON/O 2. 3101292;7,925;3;;S;Não
+571;masculino;62;0;0;S.W./PP 752;10,5;2;;S;Sim
+367;feminino;60;1;0;110813;75,25;1;D37;C;Sim
+533;masculino;17;1;1;2690;7,2292;3;;C;Não
+345;masculino;36;0;0;229236;13;2;;S;Não
+422;masculino;21;0;0;A/5. 13032;7,7333;3;;Q;Não
+745;masculino;31;0;0;STON/O 2. 3101288;7,925;3;;S;Sim
+855;feminino;44;1;0;244252;26;2;;S;Não
+163;masculino;26;0;0;347068;7,775;3;;S;Não
+599;masculino;;0;0;2664;7,225;3;;C;Não
+727;feminino;30;3;0;31027;21;2;;S;Sim
+520;masculino;32;0;0;349242;7,8958;3;;S;Não
+535;feminino;30;0;0;315084;8,6625;3;;S;Não
+346;feminino;24;0;0;248733;13;2;F33;S;Sim
+301;feminino;;0;0;9234;7,75;3;;Q;Sim
+431;masculino;28;0;0;110564;26,55;1;C52;S;Sim
+66;masculino;;1;1;2661;15,2458;3;;C;Sim
+411;masculino;;0;0;349222;7,8958;3;;S;Não
+339;masculino;45;0;0;7598;8,05;3;;S;Sim
+730;feminino;25;1;0;STON/O2. 3101271;7,925;3;;S;Não
+841;masculino;20;0;0;SOTON/O2 3101287;7,925;3;;S;Não
+354;masculino;25;1;0;349237;17,8;3;;S;Não
+269;feminino;58;0;1;PC 17582;153,4625;1;C125;S;Sim
+365;masculino;;1;0;370365;15,5;3;;Q;Não
+573;masculino;36;0;0;PC 17474;26,3875;1;E25;S;Sim
+88;masculino;;0;0;SOTON/OQ 392086;8,05;3;;S;Não
+651;masculino;;0;0;349221;7,8958;3;;S;Não
+420;feminino;10;0;2;345773;24,15;3;;S;Não
+687;masculino;14;4;1;3101295;39,6875;3;;S;Não
+780;feminino;43;0;1;24160;211,3375;1;B3;S;Sim
+656;masculino;24;2;0;S.O.C. 14879;73,5;2;;S;Não
+393;masculino;28;2;0;3101277;7,925;3;;S;Não
+379;masculino;20;0;0;2648;4,0125;3;;C;Não
+260;feminino;50;0;1;230433;26;2;;S;Sim
+847;masculino;;8;2;CA. 2343;69,55;3;;S;Não
+385;masculino;;0;0;349227;7,8958;3;;S;Não
+79;masculino;0.83;0;2;248738;29;2;;S;Sim
+319;feminino;31;0;2;36928;164,8667;1;C7;S;Sim
+33;feminino;;0;0;335677;7,75;3;;Q;Sim
+104;masculino;33;0;0;7540;8,6542;3;;S;Não
+221;masculino;16;0;0;SOTON/OQ 392089;8,05;3;;S;Sim
+235;masculino;24;0;0;C.A. 29566;10,5;2;;S;Não
+95;masculino;59;0;0;364500;7,25;3;;S;Não
+616;feminino;24;1;2;220845;65;2;;S;Sim
+858;masculino;51;0;0;113055;26,55;1;E17;S;Sim
+349;masculino;3;1;1;C.A. 37671;15,9;3;;S;Sim
+717;feminino;38;0;0;PC 17757;227,525;1;C45;C;Sim
+493;masculino;55;0;0;113787;30,5;1;C30;S;Não
+662;masculino;40;0;0;2623;7,225;3;;C;Não
+429;masculino;;0;0;364851;7,75;3;;Q;Não
+29;feminino;;0;0;330959;7,8792;3;;Q;Sim
+16;feminino;55;0;0;248706;16;2;;S;Sim
+875;feminino;28;1;0;P/PP 3381;24;2;;C;Sim
+545;masculino;50;1;0;PC 17761;106,425;1;C86;C;Não
+302;masculino;;2;0;367226;23,25;3;;Q;Sim
+649;masculino;;0;0;S.O./P.P. 751;7,55;3;;S;Não
+691;masculino;31;1;0;17474;57;1;B20;S;Sim
+623;masculino;20;1;1;2653;15,7417;3;;C;Sim
+189;masculino;40;1;1;364849;15,5;3;;Q;Não
+362;masculino;29;1;0;SC/PARIS 2167;27,7208;2;;C;Não
+19;feminino;31;1;0;345763;18;3;;S;Não
+244;masculino;22;0;0;STON/O 2. 3101275;7,125;3;;S;Não
+44;feminino;3;1;2;SC/Paris 2123;41,5792;2;;C;Sim
+872;feminino;47;1;1;11751;52,5542;1;D35;S;Sim
+862;masculino;21;1;0;28134;11,5;2;;S;Não
+438;feminino;24;2;3;29106;18,75;2;;S;Sim
+275;feminino;;0;0;370375;7,75;3;;Q;Sim
+786;masculino;25;0;0;374887;7,25;3;;S;Não
+372;masculino;18;1;0;3101267;6,4958;3;;S;Não
+222;masculino;27;0;0;220367;13;2;;S;Não
+216;feminino;31;1;0;35273;113,275;1;D36;C;Sim
+890;masculino;26;0;0;111369;30;1;C148;C;Sim
+256;feminino;29;0;2;2650;15,2458;3;;C;Sim
+153;masculino;55.5;0;0;A.5. 11206;8,05;3;;S;Não
+102;masculino;;0;0;349215;7,8958;3;;S;Não
+78;masculino;;0;0;374746;8,05;3;;S;Não
+231;feminino;35;1;0;36973;83,475;1;C83;S;Sim
+174;masculino;21;0;0;STON/O 2. 3101280;7,925;3;;S;Não
+21;masculino;35;0;0;239865;26;2;;S;Não
+536;feminino;7;0;2;F.C.C. 13529;26,25;2;;S;Sim
+567;masculino;19;0;0;349205;7,8958;3;;S;Não
+844;masculino;34.5;0;0;2683;6,4375;3;;C;Não
+53;feminino;49;1;0;PC 17572;76,7292;1;D33;C;Sim
+838;masculino;;0;0;392092;8,05;3;;S;Não
+58;masculino;28.5;0;0;2697;7,2292;3;;C;Não
+821;feminino;52;1;1;12749;93,5;1;B69;S;Sim
+559;feminino;39;1;1;110413;79,65;1;E67;S;Sim
+740;masculino;;0;0;349218;7,8958;3;;S;Não
+465;masculino;;0;0;A/S 2816;8,05;3;;S;Não
+487;feminino;35;1;0;19943;90;1;C93;S;Sim
+177;masculino;;3;1;4133;25,4667;3;;S;Não
+663;masculino;47;0;0;5727;25,5875;1;E58;S;Não
+770;masculino;32;0;0;8471;8,3625;3;;S;Não
+76;masculino;25;0;0;348123;7,65;3;F G73;S;Não
+210;masculino;40;0;0;112277;31;1;A31;C;Sim
+676;masculino;18;0;0;349912;7,775;3;;S;Não
+351;masculino;23;0;0;7267;9,225;3;;S;Não
+549;masculino;33;1;1;363291;20,525;3;;S;Não
+705;masculino;26;1;0;350025;7,8542;3;;S;Não
+123;masculino;32.5;1;0;237736;30,0708;2;;C;Não
+805;masculino;27;0;0;347089;6,975;3;;S;Sim
+881;feminino;25;0;1;230433;26;2;;S;Sim
+517;feminino;34;0;0;C.A. 34260;10,5;2;F33;S;Sim
+103;masculino;21;0;1;35281;77,2875;1;D26;S;Não
+111;masculino;47;0;0;110465;52;1;C110;S;Não
+507;feminino;33;0;2;26360;26;2;;S;Sim
+329;feminino;31;1;1;363291;20,525;3;;S;Sim
+340;masculino;45;0;0;113784;35,5;1;T;S;Não
+709;feminino;22;0;0;113781;151,55;1;;S;Sim
+595;masculino;37;1;0;SC/AH 29037;26;2;;S;Não
+603;masculino;;0;0;113796;42,4;1;;S;Não
+59;feminino;5;1;2;C.A. 34651;27,75;2;;S;Sim
+25;feminino;8;3;1;349909;21,075;3;;S;Não
+758;masculino;18;0;0;29108;11,5;2;;S;Não
+591;masculino;35;0;0;STON/O 2. 3101273;7,125;3;;S;Não
+732;masculino;11;0;0;2699;18,7875;3;;C;Não
+9;feminino;27;0;2;347742;11,1333;3;;S;Sim
+871;masculino;26;0;0;349248;7,8958;3;;S;Não
+736;masculino;28.5;0;0;54636;16,1;3;;S;Não
+84;masculino;28;0;0;113059;47,1;1;;S;Não
+360;feminino;;0;0;330980;7,8792;3;;Q;Sim
+180;masculino;36;0;0;LINE;0;3;;S;Não
+764;feminino;36;1;2;113760;120;1;B96 B98;S;Sim
+400;feminino;28;0;0;240929;12,65;2;;S;Sim
+150;masculino;42;0;0;244310;13;2;;S;Não
+134;feminino;29;1;0;228414;26;2;;S;Sim
+10;feminino;14;1;0;237736;30,0708;2;;C;Sim
+32;feminino;;1;0;PC 17569;146,5208;1;B78;C;Sim
+504;feminino;37;0;0;4135;9,5875;3;;S;Não
+505;feminino;16;0;0;110152;86,5;1;B79;S;Sim
+825;masculino;2;4;1;3101295;39,6875;3;;S;Não
+581;feminino;25;1;1;237789;30;2;;S;Sim
+720;masculino;33;0;0;347062;7,775;3;;S;Não
+211;masculino;24;0;0;SOTON/O.Q. 3101311;7,05;3;;S;Não
+757;masculino;28;0;0;350042;7,7958;3;;S;Não
+850;feminino;;1;0;17453;89,1042;1;C92;C;Sim
+391;masculino;36;1;2;113760;120;1;B96 B98;S;Sim
+245;masculino;30;0;0;2694;7,225;3;;C;Não
+201;masculino;28;0;0;345770;9,5;3;;S;Não
+378;masculino;27;0;2;113503;211,5;1;C82;C;Não
+321;masculino;22;0;0;A/5 21172;7,25;3;;S;Não
+509;masculino;28;0;0;C 4001;22,525;3;;S;Não
+116;masculino;21;0;0;STON/O 2. 3101294;7,925;3;;S;Não
+781;feminino;13;0;0;2687;7,2292;3;;C;Sim
+467;masculino;;0;0;239853;0;2;;S;Não
+136;masculino;23;0;0;SC/PARIS 2133;15,0458;2;;C;Não
+51;masculino;7;4;1;3101295;39,6875;3;;S;Não
+161;masculino;44;0;1;371362;16,1;3;;S;Não
+52;masculino;21;0;0;A/4. 39886;7,8;3;;S;Não
+40;feminino;14;1;0;2651;11,2417;3;;C;Sim
+437;feminino;21;2;2;W./C. 6608;34,375;3;;S;Não
+681;feminino;;0;0;330935;8,1375;3;;Q;Não
+742;masculino;36;1;0;19877;78,85;1;C46;S;Não
+286;masculino;33;0;0;349239;8,6625;3;;C;Não
+839;masculino;32;0;0;1601;56,4958;3;;S;Sim
+848;masculino;35;0;0;349213;7,8958;3;;C;Não
+766;feminino;51;1;0;13502;77,9583;1;D11;S;Sim
+624;masculino;21;0;0;350029;7,8542;3;;S;Não
+233;masculino;59;0;0;237442;13,5;2;;S;Não
+891;masculino;32;0;0;370376;7,75;3;;Q;Não
+305;masculino;;0;0;A/5 2466;8,05;3;;S;Não
+142;feminino;22;0;0;347081;7,75;3;;S;Sim
+560;feminino;36;1;0;345572;17,4;3;;S;Sim
+588;masculino;60;1;1;13567;79,2;1;B41;C;Sim
+484;feminino;63;0;0;4134;9,5875;3;;S;Sim
+488;masculino;58;0;0;11771;29,7;1;B37;C;Não
+719;masculino;;0;0;36568;15,5;3;;Q;Não
+457;masculino;65;0;0;13509;26,55;1;E38;S;Não
+597;feminino;;0;0;248727;33;2;;S;Sim
+168;feminino;45;1;4;347088;27,9;3;;S;Não
+268;masculino;25;1;0;347083;7,775;3;;S;Sim
+619;feminino;4;2;1;230136;39;2;F4;S;Sim
+332;masculino;45.5;0;0;113043;28,5;1;C124;S;Não
+829;masculino;;0;0;367228;7,75;3;;Q;Sim
+299;masculino;;0;0;19988;30,5;1;C106;S;Sim
+352;masculino;;0;0;113510;35;1;C128;S;Não
+145;masculino;18;0;0;231945;11,5;2;;S;Não
+175;masculino;56;0;0;17764;30,6958;1;A7;C;Não
+843;feminino;30;0;0;113798;31;1;;C;Sim
+309;masculino;30;1;0;P/PP 3381;24;2;;C;Não
+310;feminino;30;0;0;PC 17485;56,9292;1;E36;C;Sim
+236;feminino;;0;0;W./C. 6609;7,55;3;;S;Não
+864;feminino;;8;2;CA. 2343;69,55;3;;S;Não
+77;masculino;;0;0;349208;7,8958;3;;S;Não
+672;masculino;31;1;0;F.C. 12750;52;1;B71;S;Não
+377;feminino;22;0;0;C 7077;7,25;3;;S;Sim
+323;feminino;30;0;0;234818;12,35;2;;Q;Sim
+783;masculino;29;0;0;113501;30;1;D6;S;Não
+835;masculino;18;0;0;2223;8,3;3;;S;Não
+276;feminino;63;1;0;13502;77,9583;1;D7;S;Sim
+570;masculino;32;0;0;350417;7,8542;3;;S;Sim
+451;masculino;36;1;2;C.A. 34651;27,75;2;;S;Não
+524;feminino;44;0;1;111361;57,9792;1;B18;C;Sim
+55;masculino;65;0;1;113509;61,9792;1;B30;C;Não
+325;masculino;;8;2;CA. 2343;69,55;3;;S;Não
+89;feminino;23;3;2;19950;263;1;C23 C25 C27;S;Sim
+155;masculino;;0;0;Fa 265302;7,3125;3;;S;Não
+557;feminino;48;1;0;11755;39,6;1;A16;C;Sim
+192;masculino;19;0;0;28424;13;2;;S;Não
+292;feminino;19;1;0;11967;91,0792;1;B49;C;Sim
+702;masculino;35;0;0;PC 17475;26,2875;1;E24;S;Sim
+264;masculino;40;0;0;112059;0;1;B94;S;Não
+412;masculino;;0;0;394140;6,8583;3;;Q;Não
+230;feminino;;3;1;4133;25,4667;3;;S;Não
+121;masculino;21;2;0;S.O.C. 14879;73,5;2;;S;Não
+48;feminino;;0;0;14311;7,75;3;;Q;Sim
+486;feminino;;3;1;4133;25,4667;3;;S;Não
+817;feminino;23;0;0;STON/O2. 3101290;7,925;3;;S;Não
+675;masculino;;0;0;239856;0;2;;S;Não
+537;masculino;45;0;0;113050;26,55;1;B38;S;Não
+538;feminino;30;0;0;PC 17761;106,425;1;;C;Sim
+427;feminino;28;1;0;2003;26;2;;S;Sim
+214;masculino;30;0;0;250646;13;2;;S;Não
+617;masculino;34;1;1;347080;14,4;3;;S;Não
+585;masculino;;0;0;3411;8,7125;3;;C;Não
+374;masculino;22;0;0;PC 17760;135,6333;1;;C;Não
+861;masculino;41;2;0;350026;14,1083;3;;S;Não
+156;masculino;51;0;1;PC 17597;61,3792;1;;C;Não
+787;feminino;18;0;0;3101265;7,4958;3;;S;Sim
+435;masculino;50;1;0;13507;55,9;1;E44;S;Não
+614;masculino;;0;0;370377;7,75;3;;Q;Não
+496;masculino;;0;0;2627;14,4583;3;;C;Não
+885;masculino;25;0;0;SOTON/OQ 392076;7,05;3;;S;Não
+413;feminino;33;1;0;19928;90;1;C78;Q;Sim
+810;feminino;33;1;0;113806;53,1;1;E8;S;Sim
+421;masculino;;0;0;349254;7,8958;3;;C;Não
+633;masculino;32;0;0;13214;30,5;1;B50;C;Sim
+630;masculino;;0;0;334912;7,7333;3;;Q;Não
+497;feminino;54;1;0;36947;78,2667;1;D20;C;Sim
+107;feminino;21;0;0;343120;7,65;3;;S;Sim
+565;feminino;;0;0;SOTON/O.Q. 392087;8,05;3;;S;Não
+852;masculino;74;0;0;347060;7,775;3;;S;Não
+27;masculino;;0;0;2631;7,225;3;;C;Não
+724;masculino;50;0;0;250643;13;2;;S;Não
+544;masculino;32;1;0;2908;26;2;;S;Sim
+594;feminino;;0;2;364848;7,75;3;;Q;Não
+405;feminino;20;0;0;315096;8,6625;3;;S;Não
+450;masculino;52;0;0;113786;30,5;1;C104;S;Sim
+878;masculino;19;0;0;349212;7,8958;3;;S;Não
+426;masculino;;0;0;A/4. 34244;7,25;3;;S;Não
+28;masculino;19;3;2;19950;263;1;C23 C25 C27;S;Não
+304;feminino;;0;0;226593;12,35;2;E101;Q;Sim
+39;feminino;18;2;0;345764;18;3;;S;Não
+207;masculino;32;1;0;3101278;15,85;3;;S;Não
+812;masculino;39;0;0;A/4 48871;24,15;3;;S;Não
+353;masculino;15;1;1;2695;7,2292;3;;C;Não
+36;masculino;42;1;0;113789;52;1;;S;Não
+590;masculino;;0;0;A./5. 3235;8,05;3;;S;Não
+274;masculino;37;0;1;PC 17596;29,7;1;C118;C;Não
+664;masculino;36;0;0;349210;7,4958;3;;S;Não
+281;masculino;65;0;0;336439;7,75;3;;Q;Não
+804;masculino;0.42;0;1;2625;8,5167;3;;C;Sim
+114;feminino;20;1;0;4136;9,825;3;;S;Não
+67;feminino;29;0;0;C.A. 29395;10,5;2;F33;S;Sim
+208;masculino;26;0;0;2699;18,7875;3;;C;Sim
+225;masculino;38;1;0;19943;90;1;C93;S;Sim
+798;feminino;31;0;0;349244;8,6833;3;;S;Sim
+744;masculino;24;1;0;376566;16,1;3;;S;Não
+627;masculino;57;0;0;219533;12,35;2;;Q;Não
+447;feminino;13;0;1;250644;19,5;2;;S;Sim
+270;feminino;35;0;0;PC 17760;135,6333;1;C99;S;Sim
+12;feminino;58;0;0;113783;26,55;1;C103;S;Sim
+748;feminino;30;0;0;250648;13;2;;S;Sim
+326;feminino;36;0;0;PC 17760;135,6333;1;C32;C;Sim
+232;masculino;29;0;0;347067;7,775;3;;S;Não
+478;masculino;29;1;0;3460;7,0458;3;;S;Não
+83;feminino;;0;0;330932;7,7875;3;;Q;Sim
+475;feminino;22;0;0;7553;9,8375;3;;S;Não
+572;feminino;53;2;0;11769;51,4792;1;C101;S;Sim
+315;masculino;43;1;1;F.C.C. 13529;26,25;2;;S;Não
+826;masculino;;0;0;368323;6,95;3;;Q;Não
+489;masculino;30;0;0;A.5. 18509;8,05;3;;S;Não
+182;masculino;;0;0;SC/PARIS 2131;15,05;2;;C;Não
+291;feminino;26;0;0;19877;78,85;1;;S;Sim
+430;masculino;32;0;0;SOTON/O.Q. 392078;8,05;3;E10;S;Sim
+753;masculino;33;0;0;345780;9,5;3;;S;Não
+414;masculino;;0;0;239853;0;2;;S;Não
+837;masculino;21;0;0;315097;8,6625;3;;S;Não
+773;feminino;57;0;0;S.O./P.P. 3;10,5;2;E77;S;Não
+165;masculino;1;4;1;3101295;39,6875;3;;S;Não
+138;masculino;37;1;0;113803;53,1;1;C123;S;Não
+629;masculino;26;0;0;349224;7,8958;3;;S;Não
+756;masculino;0.67;1;1;250649;14,5;2;;S;Sim
+14;masculino;39;1;5;347082;31,275;3;;S;Não
+176;masculino;18;1;1;350404;7,8542;3;;S;Não
+762;masculino;41;0;0;SOTON/O2 3101272;7,125;3;;S;Não
+866;feminino;42;0;0;236852;13;2;;S;Sim
+679;feminino;43;1;6;CA 2144;46,9;3;;S;Não
+706;masculino;39;0;0;250655;26;2;;S;Não
+532;masculino;;0;0;2641;7,2292;3;;C;Não
+830;feminino;62;0;0;113572;80;1;B28;;Sim
+642;feminino;24;0;0;PC 17477;69,3;1;B35;C;Sim
+640;masculino;;1;0;376564;16,1;3;;S;Não
+479;masculino;22;0;0;350060;7,5208;3;;S;Não
+652;feminino;18;0;1;231919;23;2;;S;Sim
+795;masculino;25;0;0;349203;7,8958;3;;S;Não
+646;masculino;48;1;0;PC 17572;76,7292;1;D33;C;Sim
+824;feminino;27;0;1;392096;12,475;3;E121;S;Sim
+518;masculino;;0;0;371110;24,15;3;;Q;Não
+113;masculino;22;0;0;324669;8,05;3;;S;Não
+880;feminino;56;0;1;11767;83,1583;1;C50;C;Sim
+449;feminino;5;2;1;2666;19,2583;3;;C;Sim
+213;masculino;22;0;0;A/5 21174;7,25;3;;S;Não
+860;masculino;;0;0;2629;7,2292;3;;C;Não
+293;masculino;36;0;0;SC/Paris 2163;12,875;2;D;C;Não
+194;masculino;3;1;1;230080;26;2;F2;S;Sim
+131;masculino;33;0;0;349241;7,8958;3;;C;Não
+653;masculino;21;0;0;8475;8,4333;3;;S;Não
+229;masculino;18;0;0;236171;13;2;;S;Não
+328;feminino;36;0;0;28551;13;2;D;S;Sim
+297;masculino;23.5;0;0;2693;7,2292;3;;C;Não
+38;masculino;21;0;0;A./5. 2152;8,05;3;;S;Não
+238;feminino;8;0;2;C.A. 31921;26,25;2;;S;Sim
+575;masculino;16;0;0;A/4. 20589;8,05;3;;S;Não
+394;feminino;23;1;0;35273;113,275;1;D36;C;Sim
+294;feminino;24;0;0;349236;8,85;3;;S;Não
+402;masculino;26;0;0;341826;8,05;3;;S;Não
+704;masculino;25;0;0;36864;7,7417;3;;Q;Não
+689;masculino;18;0;0;350036;7,7958;3;;S;Não
+851;masculino;4;4;2;347082;31,275;3;;S;Não
+626;masculino;61;0;0;36963;32,3208;1;D50;S;Não
+187;feminino;;1;0;370365;15,5;3;;Q;Sim
+272;masculino;25;0;0;LINE;0;3;;S;Sim
+35;masculino;28;1;0;PC 17604;82,1708;1;;C;Não
+701;feminino;18;1;0;PC 17757;227,525;1;C62 C64;C;Sim
+512;masculino;;0;0;SOTON/OQ 3101316;8,05;3;;S;Não
+699;masculino;49;1;1;17421;110,8833;1;C68;C;Não
+723;masculino;34;0;0;12233;13;2;;S;Não
+441;feminino;45;1;1;F.C.C. 13529;26,25;2;;S;Sim
+144;masculino;19;0;0;365222;6,75;3;;Q;Não
+344;masculino;25;0;0;244361;13;2;;S;Não
+258;feminino;30;0;0;110152;86,5;1;B77;S;Sim
+287;masculino;30;0;0;345774;9,5;3;;S;Sim
+341;masculino;2;1;1;230080;26;2;F2;S;Sim
+721;feminino;6;0;1;248727;33;2;;S;Sim
+620;masculino;26;0;0;31028;10,5;2;;S;Não
+17;masculino;2;4;1;382652;29,125;3;;Q;Não
+100;masculino;34;1;0;244367;26;2;;S;Não
+782;feminino;17;1;0;17474;57;1;B20;S;Sim
+424;feminino;28;1;1;347080;14,4;3;;S;Não
+200;feminino;24;0;0;248747;13;2;;S;Não
+363;feminino;45;0;1;2691;14,4542;3;;C;Não
+481;masculino;9;5;2;CA 2144;46,9;3;;S;Não
+819;masculino;43;0;0;C 7075;6,45;3;;S;Não
+469;masculino;;0;0;36209;7,725;3;;Q;Não
+162;feminino;40;0;0;C.A. 33595;15,75;2;;S;Sim
+470;feminino;0.75;2;1;2666;19,2583;3;;C;Sim
+511;masculino;29;0;0;382651;7,75;3;;Q;Sim
+317;feminino;24;1;0;244367;26;2;;S;Sim
+92;masculino;20;0;0;347466;7,8542;3;;S;Não
+477;masculino;34;1;0;31027;21;2;;S;Não
+587;masculino;47;0;0;237565;15;2;;S;Não
+684;masculino;14;5;2;CA 2144;46,9;3;;S;Não
+445;masculino;;0;0;65306;8,1125;3;;S;Sim
+802;feminino;31;1;1;C.A. 31921;26,25;2;;S;Sim
+250;masculino;54;1;0;244252;26;2;;S;Não
+193;feminino;19;1;0;350046;7,8542;3;;S;Sim
+889;feminino;;1;2;W./C. 6607;23,45;3;;S;Não
+666;masculino;32;2;0;S.O.C. 14879;73,5;2;;S;Não
+322;masculino;27;0;0;349219;7,8958;3;;S;Não
+593;masculino;47;0;0;A/5 3902;7,25;3;;S;Não
+90;masculino;24;0;0;343275;8,05;3;;S;Não
+246;masculino;44;2;0;19928;90;1;C78;Q;Não
+733;masculino;;0;0;239855;0;2;;S;Não
+151;masculino;51;0;0;S.O.P. 1166;12,525;2;;S;Não
+632;masculino;51;0;0;347743;7,0542;3;;S;Não
+160;masculino;;8;2;CA. 2343;69,55;3;;S;Não
+462;masculino;34;0;0;364506;8,05;3;;S;Não
+170;masculino;28;0;0;1601;56,4958;3;;S;Não
+285;masculino;;0;0;113056;26;1;A19;S;Não
+808;feminino;18;0;0;347087;7,775;3;;S;Não
+715;masculino;52;0;0;250647;13;2;;S;Não
+582;feminino;39;1;1;17421;110,8833;1;C68;C;Sim
+711;feminino;24;0;0;PC 17482;49,5042;1;C90;C;Sim
+197;masculino;;0;0;368703;7,75;3;;Q;Não
+403;feminino;21;1;0;4137;9,825;3;;S;Não
+543;feminino;11;4;2;347082;31,275;3;;S;Não
+278;masculino;;0;0;239853;0;2;;S;Não
+7;masculino;54;0;0;17463;51,8625;1;E46;S;Não
+887;masculino;27;0;0;211536;13;2;;S;Não
+528;masculino;;0;0;PC 17483;221,7792;1;C95;S;Não
+46;masculino;;0;0;S.C./A.4. 23567;8,05;3;;S;Não
+217;feminino;27;0;0;STON/O2. 3101283;7,925;3;;S;Sim
+526;masculino;40.5;0;0;367232;7,75;3;;Q;Não
+859;feminino;24;0;3;2666;19,2583;3;;C;Sim
+657;masculino;;0;0;349223;7,8958;3;;S;Não
+774;masculino;;0;0;2674;7,225;3;;C;Não
+806;masculino;31;0;0;347063;7,775;3;;S;Não
+813;masculino;35;0;0;28206;10,5;2;;S;Não
+68;masculino;19;0;0;S.P. 3464;8,1583;3;;S;Não
+290;feminino;22;0;0;370373;7,75;3;;Q;Sim
+127;masculino;;0;0;370372;7,75;3;;Q;Não
+688;masculino;19;0;0;349228;10,1708;3;;S;Não
+1;masculino;22;1;0;A/5 21171;7,25;3;;S;Não
+797;feminino;49;0;0;17465;25,9292;1;D17;S;Sim
+186;masculino;;0;0;113767;50;1;A32;S;Não
+64;masculino;4;3;2;347088;27,9;3;;S;Não
+228;masculino;20.5;0;0;A/5 21173;7,25;3;;S;Não
+419;masculino;30;0;0;28228;13;2;;S;Não
+129;feminino;;1;1;2668;22,3583;3;F E69;C;Sim
+188;masculino;45;0;0;111428;26,55;1;;S;Sim
+331;feminino;;2;0;367226;23,25;3;;Q;Sim
+277;feminino;45;0;0;347073;7,75;3;;S;Não
+118;masculino;29;1;0;11668;21;2;;S;Não
+202;masculino;;8;2;CA. 2343;69,55;3;;S;Não
+410;feminino;;3;1;4133;25,4667;3;;S;Não
+458;feminino;;1;0;17464;51,8625;1;D21;S;Sim
+358;feminino;38;0;0;237671;13;2;;S;Não
+106;masculino;28;0;0;349207;7,8958;3;;S;Não
+383;masculino;32;0;0;STON/O 2. 3101293;7,925;3;;S;Não
+267;masculino;16;4;1;3101295;39,6875;3;;S;Não
+99;feminino;34;0;1;231919;23;2;;S;Sim
+598;masculino;49;0;0;LINE;0;3;;S;Não
+24;masculino;28;0;0;113788;35,5;1;A6;S;Sim
+498;masculino;;0;0;C.A. 6212;15,1;3;;S;Não
+57;feminino;21;0;0;C.A. 31026;10,5;2;;S;Sim
+343;masculino;28;0;0;248740;13;2;;S;Não
+865;masculino;24;0;0;233866;13;2;;S;Não
+73;masculino;21;0;0;S.O.C. 14879;73,5;2;;S;Não
+767;masculino;;0;0;112379;39,6;1;;C;Não
+799;masculino;30;0;0;2685;7,2292;3;;C;Não
+3;feminino;26;0;0;STON/O2. 3101282;7,925;3;;S;Sim
+832;masculino;0.83;1;1;29106;18,75;2;;S;Sim
+334;masculino;16;2;0;345764;18;3;;S;Não
+820;masculino;10;3;2;347088;27,9;3;;S;Não
+772;masculino;48;0;0;350047;7,8542;3;;S;Não
+313;feminino;26;1;1;250651;26;2;;S;Não
+473;feminino;33;1;2;C.A. 34651;27,75;2;;S;Sim
+342;feminino;24;3;2;19950;263;1;C23 C25 C27;S;Sim
+577;feminino;34;0;0;243880;13;2;;S;Sim
+612;masculino;;0;0;SOTON/O.Q. 3101305;7,05;3;;S;Não
+540;feminino;22;0;2;13568;49,5;1;B39;C;Sim
+453;masculino;30;0;0;113051;27,75;1;C111;C;Não
+853;feminino;9;1;1;2678;15,2458;3;;C;Não
+392;masculino;21;0;0;350034;7,7958;3;;S;Sim
+108;masculino;;0;0;312991;7,775;3;;S;Sim
+531;feminino;2;1;1;26360;26;2;;S;Sim
+768;feminino;30.5;0;0;364850;7,75;3;;Q;Não
+556;masculino;62;0;0;113807;26,55;1;;S;Não
+31;masculino;40;0;0;PC 17601;27,7208;1;;C;Não
+746;masculino;70;1;1;WE/P 5735;71;1;B22;S;Não
+300;feminino;50;0;1;PC 17558;247,5208;1;B58 B60;C;Sim
+645;feminino;0.75;2;1;2666;19,2583;3;;C;Sim
+583;masculino;54;0;0;28403;26;2;;S;Não
+592;feminino;52;1;0;36947;78,2667;1;D20;C;Sim
+406;masculino;34;1;0;28664;21;2;;S;Não
+800;feminino;30;1;1;345773;24,15;3;;S;Não
+237;masculino;44;1;0;26707;26;2;;S;Não
+854;feminino;16;0;1;PC 17592;39,4;1;D28;S;Sim
+296;masculino;;0;0;PC 17612;27,7208;1;;C;Não
+433;feminino;42;1;0;SC/AH 3085;26;2;;S;Sim
+685;masculino;60;1;1;29750;39;2;;S;Não
+608;masculino;27;0;0;113804;30,5;1;;S;Sim
+665;masculino;20;1;0;STON/O 2. 3101285;7,925;3;;S;Sim
+579;feminino;;1;0;2689;14,4583;3;;C;Não
+361;masculino;40;1;4;347088;27,9;3;;S;Não
+271;masculino;;0;0;113798;31;1;;S;Não
+867;feminino;27;1;0;SC/PARIS 2149;13,8583;2;;C;Sim
+61;masculino;22;0;0;2669;7,2292;3;;C;Não
+119;masculino;24;0;1;PC 17558;247,5208;1;B58 B60;C;Não
+607;masculino;30;0;0;349246;7,8958;3;;S;Não
+185;feminino;4;0;2;315153;22,025;3;;S;Sim
+439;masculino;64;1;4;19950;263;1;C23 C25 C27;S;Não
+91;masculino;29;0;0;343276;8,05;3;;S;Não
+495;masculino;21;0;0;A/4 45380;8,05;3;;S;Não
+628;feminino;21;0;0;13502;77,9583;1;D9;S;Sim
+93;masculino;46;1;0;W.E.P. 5734;61,175;1;E31;S;Não
+303;masculino;19;0;0;LINE;0;3;;S;Não
